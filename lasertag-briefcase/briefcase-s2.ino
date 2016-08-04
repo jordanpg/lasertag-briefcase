@@ -24,7 +24,7 @@ bool held = false;
 bool finished = false;
 
 const unsigned long armProgTime = 250;
-const unsigned long countdown = 60000 * 0.25;
+const unsigned long countdown = 60000 * 3;
 
 unsigned long deltaTime = 0;
 unsigned long lastTime = 0;
